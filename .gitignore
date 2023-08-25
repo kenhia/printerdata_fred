@@ -6,3 +6,5 @@ timelapse.cfg
 *.bkp
 printer-[0-9]*_*.cfg
 
+# Ken's data files
+kdata_*
